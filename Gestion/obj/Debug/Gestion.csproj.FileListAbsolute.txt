@@ -1,0 +1,114 @@
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\bin\Debug\Entidades.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\bin\Debug\ReglasNegocio.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\bin\Debug\Entidades.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\bin\Debug\ReglasNegocio.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\bin\Debug\ReglasNegocio.dll.config
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.FrmDarBajaAltaVentas.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.FrmDetalle.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.FrmEmpresa.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.FrmListadoVentas.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.FrmPrincipal.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.FrmTrabajador.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.FrmVenta.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.csproj.CopyComplete
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Gestion\obj\Debug\Gestion.FrmIniciarSesion.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.exe.config
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmCategoria.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmDarBajaAltaVentas.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmDetalle.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmEmpresa.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmIniciarSesion.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmListadoVentas.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmPrincipal.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmProducto.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmTrabajador.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmVenta.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\Entidades.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\ReglasNegocio.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\MySql.Data.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\Google.Protobuf.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\ZstdNet.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\System.Memory.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\System.Buffers.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\Entidades.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\ReglasNegocio.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\ReglasNegocio.dll.config
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\MySql.Data.xml
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.csproj.CopyComplete
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\itextsharp.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\bin\Debug\itextsharp.xml
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmCatalogoProductos.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.csproj.ResolveComReference.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmUsuario.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmListadoIngresosPorDocumento.resources
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Gestion\obj\Debug\Gestion.FrmListadoProductosVendidosPorAnio.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\Gestion.exe.config
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\Gestion.exe
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\Gestion.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\BouncyCastle.Crypto.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\Entidades.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\itextsharp.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\ReglasNegocio.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\MySql.Data.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\Google.Protobuf.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\ZstdNet.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\System.Memory.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\System.Buffers.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\K4os.Compression.LZ4.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\K4os.Hash.xxHash.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\System.Numerics.Vectors.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\Entidades.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\ReglasNegocio.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\ReglasNegocio.dll.config
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\itextsharp.xml
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\bin\Debug\MySql.Data.xml
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.exe.config
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.csproj.ResolveComReference.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmCatalogoProductos.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmCategoria.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmDarBajaAltaVentas.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmDetalle.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmEmpresa.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmIniciarSesion.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmListadoIngresosPorDocumento.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmListadoProductosVendidosPorAnio.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmListadoVentas.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmPrincipal.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmProducto.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmTrabajador.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmUsuario.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.FrmVenta.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.csproj.CopyComplete
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.exe
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Gestion\obj\Debug\Gestion.pdb

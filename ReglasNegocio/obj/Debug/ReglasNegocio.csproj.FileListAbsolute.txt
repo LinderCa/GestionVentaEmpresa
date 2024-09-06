@@ -1,0 +1,51 @@
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\bin\Debug\ReglasNegocio.dll.config
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\bin\Debug\Entidades.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\bin\Debug\Entidades.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.CopyComplete
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\ReglasNegocio.dll.config
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\Entidades.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\MySql.Data.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\Google.Protobuf.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\ZstdNet.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\System.Memory.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\System.Buffers.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\Entidades.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\bin\Debug\MySql.Data.xml
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.CopyComplete
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\ReglasNegocio.dll.config
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\Entidades.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\Google.Protobuf.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\ZstdNet.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\BouncyCastle.Crypto.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\System.Memory.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\System.Buffers.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\K4os.Compression.LZ4.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\K4os.Hash.xxHash.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\System.Numerics.Vectors.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\Entidades.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\bin\Debug\MySql.Data.xml
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.CopyComplete
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\ReglasNegocio\obj\Debug\ReglasNegocio.pdb

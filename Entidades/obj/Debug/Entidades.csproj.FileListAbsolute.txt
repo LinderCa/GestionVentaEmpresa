@@ -1,0 +1,18 @@
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Entidades\bin\Debug\Entidades.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Entidades\obj\Debug\Entidades.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13\Gestion\Entidades\obj\Debug\Entidades.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Entidades\bin\Debug\Entidades.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Entidades\obj\Debug\Entidades.dll
+C:\Users\josel\OneDrive\Escritorio\2023-01-13 este es\Gestion\Entidades\obj\Debug\Entidades.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Entidades\bin\Debug\Entidades.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Entidades\bin\Debug\Entidades.pdb
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Entidades\obj\Debug\Entidades.dll
+D:\UNIVERSIDAD\Ciclo 2022-II\PROGRAMACION III\Gestion\Gestion\Entidades\obj\Debug\Entidades.pdb
